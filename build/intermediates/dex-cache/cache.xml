@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Winsion\Demo\GaussR\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5a7838a6b182b00f14a2b659946372f5adda7efc">
+        <dex dex="D:\Winsion\Demo\GaussR\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5874d9ecacaa73934dac8b846584d9aa7349c1e1\classes.dex" />
+    </item>
+    <item
+        jar="D:\Winsion\Demo\GaussR\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="26ef85962c62cfcde614561ff57e0c4632461b2e">
+        <dex dex="D:\Winsion\Demo\GaussR\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4c67607273d08be0a2a89b877733f4d57b360267\classes.dex" />
+    </item>
+
+</items>

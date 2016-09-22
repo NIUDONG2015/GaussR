@@ -1,0 +1,263 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* lib\
+* lib\CVS\
+* lib\CVS\Entries
+* lib\CVS\Repository
+* lib\CVS\Root
+* lib\slf4j-android-1.6.1-RC1.jar
+* obj\
+* obj\CVS\
+* obj\CVS\Entries
+* obj\CVS\Repository
+* obj\CVS\Root
+* obj\local\
+* obj\local\CVS\
+* obj\local\CVS\Entries
+* obj\local\CVS\Repository
+* obj\local\CVS\Root
+* obj\local\armeabi-v7a\
+* obj\local\armeabi-v7a\CVS\
+* obj\local\armeabi-v7a\CVS\Entries
+* obj\local\armeabi-v7a\CVS\Repository
+* obj\local\armeabi-v7a\CVS\Root
+* obj\local\armeabi-v7a\libspeex.so
+* obj\local\armeabi-v7a\objs\
+* obj\local\armeabi-v7a\objs\CVS\
+* obj\local\armeabi-v7a\objs\CVS\Entries
+* obj\local\armeabi-v7a\objs\CVS\Repository
+* obj\local\armeabi-v7a\objs\CVS\Root
+* obj\local\armeabi-v7a\objs\speex\
+* obj\local\armeabi-v7a\objs\speex\CVS\
+* obj\local\armeabi-v7a\objs\speex\CVS\Entries
+* obj\local\armeabi-v7a\objs\speex\CVS\Repository
+* obj\local\armeabi-v7a\objs\speex\CVS\Root
+* obj\local\armeabi-v7a\objs\speex\libspeex\
+* obj\local\armeabi-v7a\objs\speex\libspeex\CVS\
+* obj\local\armeabi-v7a\objs\speex\libspeex\CVS\Entries
+* obj\local\armeabi-v7a\objs\speex\libspeex\CVS\Repository
+* obj\local\armeabi-v7a\objs\speex\libspeex\CVS\Root
+* obj\local\armeabi-v7a\objs\speex\libspeex\bits.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\bits.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\buffer.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\buffer.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\cb_search.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\cb_search.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\exc_10_16_table.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\exc_10_16_table.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\exc_10_32_table.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\exc_10_32_table.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\exc_20_32_table.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\exc_20_32_table.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\exc_5_256_table.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\exc_5_256_table.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\exc_5_64_table.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\exc_5_64_table.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\exc_8_128_table.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\exc_8_128_table.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\fftwrap.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\fftwrap.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\filterbank.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\filterbank.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\filters.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\filters.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\gain_table.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\gain_table.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\gain_table_lbr.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\gain_table_lbr.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\hexc_10_32_table.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\hexc_10_32_table.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\hexc_table.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\hexc_table.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\high_lsp_tables.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\high_lsp_tables.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\jitter.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\jitter.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\kiss_fft.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\kiss_fft.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\kiss_fftr.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\kiss_fftr.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\lpc.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\lpc.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\lsp.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\lsp.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\lsp_tables_nb.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\lsp_tables_nb.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\ltp.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\ltp.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\mdf.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\mdf.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\modes.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\modes.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\modes_wb.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\modes_wb.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\nb_celp.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\nb_celp.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\preprocess.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\preprocess.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\quant_lsp.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\quant_lsp.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\resample.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\resample.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\sb_celp.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\sb_celp.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\scal.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\scal.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\smallft.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\smallft.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\speex.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\speex.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\speex_callbacks.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\speex_callbacks.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\speex_header.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\speex_header.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\stereo.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\stereo.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\vbr.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\vbr.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\vq.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\vq.o.d
+* obj\local\armeabi-v7a\objs\speex\libspeex\window.o
+* obj\local\armeabi-v7a\objs\speex\libspeex\window.o.d
+* obj\local\armeabi-v7a\objs\speex\speex_jni.o
+* obj\local\armeabi-v7a\objs\speex\speex_jni.o.d
+* obj\local\armeabi\
+* obj\local\armeabi\CVS\
+* obj\local\armeabi\CVS\Entries
+* obj\local\armeabi\CVS\Repository
+* obj\local\armeabi\CVS\Root
+* obj\local\armeabi\libspeex.so
+* obj\local\armeabi\objs\
+* obj\local\armeabi\objs\CVS\
+* obj\local\armeabi\objs\CVS\Entries
+* obj\local\armeabi\objs\CVS\Repository
+* obj\local\armeabi\objs\CVS\Root
+* obj\local\armeabi\objs\speex\
+* obj\local\armeabi\objs\speex\CVS\
+* obj\local\armeabi\objs\speex\CVS\Entries
+* obj\local\armeabi\objs\speex\CVS\Repository
+* obj\local\armeabi\objs\speex\CVS\Root
+* obj\local\armeabi\objs\speex\libspeex\
+* obj\local\armeabi\objs\speex\libspeex\CVS\
+* obj\local\armeabi\objs\speex\libspeex\CVS\Entries
+* obj\local\armeabi\objs\speex\libspeex\CVS\Repository
+* obj\local\armeabi\objs\speex\libspeex\CVS\Root
+* obj\local\armeabi\objs\speex\libspeex\bits.o
+* obj\local\armeabi\objs\speex\libspeex\bits.o.d
+* obj\local\armeabi\objs\speex\libspeex\buffer.o
+* obj\local\armeabi\objs\speex\libspeex\buffer.o.d
+* obj\local\armeabi\objs\speex\libspeex\cb_search.o
+* obj\local\armeabi\objs\speex\libspeex\cb_search.o.d
+* obj\local\armeabi\objs\speex\libspeex\exc_10_16_table.o
+* obj\local\armeabi\objs\speex\libspeex\exc_10_16_table.o.d
+* obj\local\armeabi\objs\speex\libspeex\exc_10_32_table.o
+* obj\local\armeabi\objs\speex\libspeex\exc_10_32_table.o.d
+* obj\local\armeabi\objs\speex\libspeex\exc_20_32_table.o
+* obj\local\armeabi\objs\speex\libspeex\exc_20_32_table.o.d
+* obj\local\armeabi\objs\speex\libspeex\exc_5_256_table.o
+* obj\local\armeabi\objs\speex\libspeex\exc_5_256_table.o.d
+* obj\local\armeabi\objs\speex\libspeex\exc_5_64_table.o
+* obj\local\armeabi\objs\speex\libspeex\exc_5_64_table.o.d
+* obj\local\armeabi\objs\speex\libspeex\exc_8_128_table.o
+* obj\local\armeabi\objs\speex\libspeex\exc_8_128_table.o.d
+* obj\local\armeabi\objs\speex\libspeex\fftwrap.o
+* obj\local\armeabi\objs\speex\libspeex\fftwrap.o.d
+* obj\local\armeabi\objs\speex\libspeex\filterbank.o
+* obj\local\armeabi\objs\speex\libspeex\filterbank.o.d
+* obj\local\armeabi\objs\speex\libspeex\filters.o
+* obj\local\armeabi\objs\speex\libspeex\filters.o.d
+* obj\local\armeabi\objs\speex\libspeex\gain_table.o
+* obj\local\armeabi\objs\speex\libspeex\gain_table.o.d
+* obj\local\armeabi\objs\speex\libspeex\gain_table_lbr.o
+* obj\local\armeabi\objs\speex\libspeex\gain_table_lbr.o.d
+* obj\local\armeabi\objs\speex\libspeex\hexc_10_32_table.o
+* obj\local\armeabi\objs\speex\libspeex\hexc_10_32_table.o.d
+* obj\local\armeabi\objs\speex\libspeex\hexc_table.o
+* obj\local\armeabi\objs\speex\libspeex\hexc_table.o.d
+* obj\local\armeabi\objs\speex\libspeex\high_lsp_tables.o
+* obj\local\armeabi\objs\speex\libspeex\high_lsp_tables.o.d
+* obj\local\armeabi\objs\speex\libspeex\jitter.o
+* obj\local\armeabi\objs\speex\libspeex\jitter.o.d
+* obj\local\armeabi\objs\speex\libspeex\kiss_fft.o
+* obj\local\armeabi\objs\speex\libspeex\kiss_fft.o.d
+* obj\local\armeabi\objs\speex\libspeex\kiss_fftr.o
+* obj\local\armeabi\objs\speex\libspeex\kiss_fftr.o.d
+* obj\local\armeabi\objs\speex\libspeex\lpc.o
+* obj\local\armeabi\objs\speex\libspeex\lpc.o.d
+* obj\local\armeabi\objs\speex\libspeex\lsp.o
+* obj\local\armeabi\objs\speex\libspeex\lsp.o.d
+* obj\local\armeabi\objs\speex\libspeex\lsp_tables_nb.o
+* obj\local\armeabi\objs\speex\libspeex\lsp_tables_nb.o.d
+* obj\local\armeabi\objs\speex\libspeex\ltp.o
+* obj\local\armeabi\objs\speex\libspeex\ltp.o.d
+* obj\local\armeabi\objs\speex\libspeex\mdf.o
+* obj\local\armeabi\objs\speex\libspeex\mdf.o.d
+* obj\local\armeabi\objs\speex\libspeex\modes.o
+* obj\local\armeabi\objs\speex\libspeex\modes.o.d
+* obj\local\armeabi\objs\speex\libspeex\modes_wb.o
+* obj\local\armeabi\objs\speex\libspeex\modes_wb.o.d
+* obj\local\armeabi\objs\speex\libspeex\nb_celp.o
+* obj\local\armeabi\objs\speex\libspeex\nb_celp.o.d
+* obj\local\armeabi\objs\speex\libspeex\preprocess.o
+* obj\local\armeabi\objs\speex\libspeex\preprocess.o.d
+* obj\local\armeabi\objs\speex\libspeex\quant_lsp.o
+* obj\local\armeabi\objs\speex\libspeex\quant_lsp.o.d
+* obj\local\armeabi\objs\speex\libspeex\resample.o
+* obj\local\armeabi\objs\speex\libspeex\resample.o.d
+* obj\local\armeabi\objs\speex\libspeex\sb_celp.o
+* obj\local\armeabi\objs\speex\libspeex\sb_celp.o.d
+* obj\local\armeabi\objs\speex\libspeex\scal.o
+* obj\local\armeabi\objs\speex\libspeex\scal.o.d
+* obj\local\armeabi\objs\speex\libspeex\smallft.o
+* obj\local\armeabi\objs\speex\libspeex\smallft.o.d
+* obj\local\armeabi\objs\speex\libspeex\speex.o
+* obj\local\armeabi\objs\speex\libspeex\speex.o.d
+* obj\local\armeabi\objs\speex\libspeex\speex_callbacks.o
+* obj\local\armeabi\objs\speex\libspeex\speex_callbacks.o.d
+* obj\local\armeabi\objs\speex\libspeex\speex_header.o
+* obj\local\armeabi\objs\speex\libspeex\speex_header.o.d
+* obj\local\armeabi\objs\speex\libspeex\stereo.o
+* obj\local\armeabi\objs\speex\libspeex\stereo.o.d
+* obj\local\armeabi\objs\speex\libspeex\vbr.o
+* obj\local\armeabi\objs\speex\libspeex\vbr.o.d
+* obj\local\armeabi\objs\speex\libspeex\vq.o
+* obj\local\armeabi\objs\speex\libspeex\vq.o.d
+* obj\local\armeabi\objs\speex\libspeex\window.o
+* obj\local\armeabi\objs\speex\libspeex\window.o.d
+* obj\local\armeabi\objs\speex\speex_jni.o
+* obj\local\armeabi\objs\speex\speex_jni.o.d
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* libs\armeabi-v7a\libspeex.so => app\src\main\jniLibs\armeabi-v7a\libspeex.so
+* libs\armeabi\libspeex.so => app\src\main\jniLibs\armeabi\libspeex.so
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
